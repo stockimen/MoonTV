@@ -86,4 +86,31 @@
       "name": "小猫咪资源"
     }
   }
+  "custom_category": [
+    {
+      "name": "豆瓣 Top250",
+      "type": "movie",
+      "query": "top250"
+    },
+    {
+      "name": "美剧",
+      "type": "tv",
+      "query": "美剧"
+    },
+    {
+      "name": "韩剧",
+      "type": "tv",
+      "query": "韩剧"
+    },
+    {
+      "name": "日剧",
+      "type": "tv",
+      "query": "日剧"
+    },
+    {
+      "name": "日漫",
+      "type": "tv",
+      "query": "日本动画"
+    },
+  ]
 }
