@@ -84,6 +84,16 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "kuaibo": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播资源",
+      "detail": "https://kbzy1.com"
+    },
+    "jinying": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源网",
+      "detail": "http://jinyingzy.com"
     }
   },
   "custom_category": [
