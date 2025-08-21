@@ -93,6 +93,35 @@
       "query": "top250"
     },
     {
+      "type": "movie",
+      "query": "动作"
+    },
+    {
+      "type": "movie",
+      "query": "喜剧"
+    },
+    {
+      "type": "movie",
+      "query": "爱情"
+    },
+    {
+      "type": "movie",
+      "query": "科幻"
+    },
+    {
+      "type": "movie",
+      "query": "悬疑"
+    },
+    {
+      "type": "movie",
+      "query": "恐怖"
+    },
+    {
+      "type": "movie",
+      "query": "治愈"
+    },
+    
+    {
       "name": "美剧",
       "type": "tv",
       "query": "美剧"
